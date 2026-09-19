@@ -13,6 +13,7 @@ A focused classroom game hub for **Oxford Discover Futures 4, Unit 1**.
 3. **Conceptual Links** — meaning and association matching
 4. **Studio Clash** — team sentence construction
 5. **WordLab Jeopardy** — mixed teacher-led review
+6. **Istanbul Music Industry Monopoly** — a 40-space property game with Turkish locations and English gameplay
 
 Every assessed answer comes from the same eleven-word set. The site is a self-contained static page and requires no build command.
 
